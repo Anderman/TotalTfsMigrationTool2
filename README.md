@@ -6,14 +6,14 @@ Improved clone over https://totaltfsmigration.codeplex.com used to migrate worki
 
 If you have many (team)projects in a single collection and few teams you should read this [Single team project](http://geekswithblogs.net/Optikal/archive/2013/09/05/153944.aspx). This tool migrate all you projects to a single project with many teams(projects)
 
-old structure:
+###old structure:
   * Default Collection
     *  Project 1
       * Project 1 team
     *  Project 2
       * project 2 team
       
-New structure
+###New structure
   * default collection
     * Projects
       * Project 1
@@ -23,7 +23,7 @@ New structure
       * team 2
     
 
-The Total TFS Migration Tool is a tool to facilitate Migration from many (team)projects to a single project with many teams(project). Currently tool support migration of 
+The Total TFS Migration Tool is a tool to facilitate Migration from many (team)projects to a single project with many teams(project). Currently the tool support migration of 
   * Work items (inclusief histoy and work item number), 
   * Iterations inclusief dates, 
   * Areas 
@@ -45,6 +45,7 @@ Customize the tool and rerun all the migration steps until you are satified eith
   * Complete history of workitems
   * copy iteration dates
   * move a complete collection
+  * Move a single project
   * Work itemID stays the same after migration
   * complete rewrite of the codebase
   * Rerun will only update new items
