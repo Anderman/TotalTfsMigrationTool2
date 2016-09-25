@@ -47,6 +47,7 @@ Customize the tool and rerun all the migration steps until you are satified eith
   * move a complete collection
   * Work itemID stays the same after migration
   * complete rewrite of the codebase
+  * Rerun will only update new items
 
 ## Known issue / custumization
 Maybe you have to customize the tool to fullfill your needs.
