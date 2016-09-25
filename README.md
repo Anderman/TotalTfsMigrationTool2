@@ -13,7 +13,7 @@ old structure:
     *  Project 2
       * project 2 team
       
- New structure
+New structure
   * default collection
     * Projects
       * Project 1
