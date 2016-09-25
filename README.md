@@ -54,3 +54,16 @@ Maybe you have to customize the tool to fullfill your needs.
   * migration to another template (Current scrum and agile=>scrum supported)
   * Test are not migrated. You can find an Example how to do this in the original tool
 
+## example of a single project with many team projects
+
+After migration all projects are moved under projects. On this level you have to create your teams
+
+![Single project](https://cloud.githubusercontent.com/assets/1858745/18815808/b6fa43ec-833a-11e6-9230-2ac63c9a9d39.png)
+
+Select the areas(projects) for which your team is responsable
+
+![p2](https://cloud.githubusercontent.com/assets/1858745/18815824/6c8a26b4-833b-11e6-8a28-98bb5e0c8ac0.png)
+
+In your team planning show information about many projects in the product backlog and sprint backlog
+![image](https://cloud.githubusercontent.com/assets/1858745/18815883/36d215ac-833d-11e6-85c8-ab40d4d9558b.png)
+
