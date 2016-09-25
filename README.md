@@ -64,6 +64,6 @@ Select the areas(projects) for which your team is responsable
 
 ![p2](https://cloud.githubusercontent.com/assets/1858745/18815824/6c8a26b4-833b-11e6-8a28-98bb5e0c8ac0.png)
 
-In your team planning show information about many projects in the product backlog and sprint backlog
+Your team has information about all projects that they are working on (the product backlog and sprint backlog)
 ![image](https://cloud.githubusercontent.com/assets/1858745/18815883/36d215ac-833d-11e6-85c8-ab40d4d9558b.png)
 
